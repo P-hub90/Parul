@@ -32,6 +32,7 @@ Hotfix(s):                 11 Hotfix(s) Installed.
                            [10]: KB5046732
                            [11]: KB5046729
 
+'''
 C:\Users\Parul_IT241021>cd \
 
 C:\>dir
@@ -51,4 +52,5 @@ C:\>dir
 11/18/2024  10:08 AM    <DIR>          VDisks
 11/22/2024  03:01 AM    <DIR>          Windows
                0 File(s)              0 bytes
-              10 Dir(s)  901,502,050,304 bytes free                           
+              10 Dir(s)  901,502,050,304 bytes free 
+              '''
