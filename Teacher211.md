@@ -31,3 +31,24 @@ Hotfix(s):                 11 Hotfix(s) Installed.
                            [09]: KB5041655
                            [10]: KB5046732
                            [11]: KB5046729
+
+C:\Users\Parul_IT241021>cd \
+
+C:\>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 3854-B37A
+
+ Directory of C:\
+
+10/24/2023  01:12 PM    <DIR>          Intel
+10/24/2023  01:18 PM    <DIR>          LanSchool
+12/13/2024  09:47 AM    <DIR>          LanSchool Files
+12/09/2024  09:45 AM    <DIR>          OS
+05/07/2022  12:24 AM    <DIR>          PerfLogs
+03/20/2024  10:09 AM    <DIR>          Program Files
+03/20/2024  10:09 AM    <DIR>          Program Files (x86)
+12/09/2024  11:14 AM    <DIR>          Users
+11/18/2024  10:08 AM    <DIR>          VDisks
+11/22/2024  03:01 AM    <DIR>          Windows
+               0 File(s)              0 bytes
+              10 Dir(s)  901,502,050,304 bytes free                           
